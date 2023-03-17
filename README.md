@@ -29,6 +29,9 @@ If you have any questions or feedback about the website, please use the contact 
 ## Contributing
 If you are interested in contributing to the Super Cars website, please create a fork of the repository, make your changes, and submit a pull request with a clear description of your changes. We welcome any contributions that improve the functionality and user experience of the website.
 
+## Portfolio Project Blog post
+https://medium.com/@2608/my-portfolio-project-building-a-super-cars-website-370b1bd14d87
+
 ## Related Projects
 Here are some related projects that you may be interested in:
 
@@ -36,3 +39,4 @@ Luxury Car Rentals
 Exotic Car Sales
 ## Licensing
 The Super Cars website is licensed under the MIT license. See LICENSE for more information.
+
